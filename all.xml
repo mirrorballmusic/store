@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 06:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 07:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Fri, 23 Sep 2022 02:13:28 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190219_15/mirrorball_m_1550541991001sxcoD_JPEG/33260849766504738_80619374.jpeg?type=f232_232" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 신현희와 김루트 - EP 1집 신현희와김루트 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/3812108582</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/3812108582</guid>
+            <pubDate>Fri, 23 Sep 2022 07:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_123/1570003889398r7qSI_JPEG/7366222946702653_1439167578.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
