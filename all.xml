@@ -1,7 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mirrorballmusic.github.io/store/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-04-11T07:14:20.669Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Apr 2023 08:20:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스위트피 (Sweetpea) - 에코백 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5486746720</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5486746720</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210329_151/16169858665260ThJz_JPEG/18121700199183298_1323137602.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준형 [Happy end] 앨범 + 굿즈 세트 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5435529267</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5435529267</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210303_15/1614765774514ohOmY_JPEG/15901609330862228_1294435629.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼큰이 뮤직박스 (크라잉넛 '좋지 아니한가') (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5348655091</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5348655091</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[90,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210121_255/1611197727371sxwTt_JPEG/12333555117758798_1162591832.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 크라잉 넛 (Crying Nut) - 25주년 베스트 앨범 [2LP][LP 가방증정) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5274886211</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5274886211</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20201214_258/1607913266475CKIYp_JPEG/9049165177437637_1523469073.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카세트 테이프] 프롬 (Fromm) - CELLOPHANE (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5187047508</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5187047508</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20201028_246/1603867232378IT6Do_JPEG/5003078084116928_1518211692.jpeg?type=f296_296" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피 (Sweetpea) - LP Box Set 月出 (DELUXE) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5105687129</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5105687129</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[150,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200909_242/1599615329862C8OuJ_JPEG/751218570180281_313592264.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피 (Sweetpea) - LP Box Set 月出 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/5105672956</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/5105672956</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20200909_177/1599613555544WYflJ_JPEG/36975888881631273_1283266899.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 (FROMM) SEOUL LIGHT 글리터 아크릴 키링 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4755680193</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4755680193</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[7,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191210_21/1575947996915afYak_JPEG/13308735541811609_304775864.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 옥수사진관 - 3집 Dreamography (2019 Remastered) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675118449</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675118449</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_176/15700032782393QwWH_JPEG/7366666781645753_1054619455.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 옥수사진관 - 2집 Candid (2019 Remastered) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675104033</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675104033</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_167/1570003114308hdNCi_JPEG/7363852941434875_698216182.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP]  옥수사진관 - 1집 옥수사진관 (2019 Remastered) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675070641</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675070641</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_57/1570003037963nwhyD_JPEG/7363776595986507_692583673.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피(Sweetpea) - 그걸로 됐어 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4675030830</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4675030830</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190920_195/1568959976885QXVKI_JPEG/6321519481930781_2093320903.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 스위트피(Sweetpea) - Neverendingstories (결코 끝나지 않을 이야기들)(Remastering) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674998688</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674998688</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190910_177/1568104142213pEI7P_JPEG/5465684811566104_1032530137.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP+CD] 스위트피(Sweetpea) - 하늘에 피는 꽃(Remastering) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674848569</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674848569</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190910_283/1568104925743TUnBn_JPEG/5468314289917565_472783271.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] J n joy 20 - Travel Project One (Just Travel... Walking... and Thinking...) (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674828420</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674828420</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190920_291/1568948624473J3XoK_JPEG/6309363104932121_2117322622.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 피터팬 콤플렉스 - 1 9 9 9 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4674779671</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4674779671</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190919_244/1568874053296xV0WT_JPEG/6237441840189163_90401549.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한정 사인반] 로큰롤라디오 - YOU'VE NEVER HAD IT SO GOOD (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/4225661235</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/4225661235</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20190219_15/mirrorball_m_1550541991001sxcoD_JPEG/33260849766504738_80619374.jpeg?type=f296_296" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LP] 신현희와 김루트 - EP 1집 신현희와김루트 (네이버 스마트스토어 ─ 미러볼뮤직)]]></title>
+            <link>https://smartstore.naver.com/mirrorballmusic/products/3812108582</link>
+            <guid>https://smartstore.naver.com/mirrorballmusic/products/3812108582</guid>
+            <pubDate>Tue, 11 Apr 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191002_123/1570003889398r7qSI_JPEG/7366222946702653_1439167578.jpg?type=f296_296" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
